@@ -1,0 +1,38 @@
+html,body{
+        margin: 0;
+        padding: 0;
+        font-size: 62.5%;
+        height: 100%;
+        width: 100%;        
+}
+body{ color: #818181; 
+      font-style: normal;
+      font-variant: normal;
+      font-weight: normal;
+      font-stretch: normal;
+      font-size: 12px;
+      line-height: 1.55;
+      font-family: sans-serif;
+       list-style: none; 
+      
+}
+
+
+header{ margin:0;
+        }
+
+
+main{background-color: #F42098;
+     height: 42px;
+     width: 100%;
+     color: #fff;
+     text-transform: uppercase;
+     list-style: none;
+}
+#1stnav{ list-style: none;}
+#2ndnav{ 
+        
+}
+    
+    
+       
