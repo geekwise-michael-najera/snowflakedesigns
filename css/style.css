@@ -42,11 +42,13 @@ main{background-color: #F42098;
 #header{float: left;
         margin: 0 auto;}
 
-#1stnav{}
 
-#2ndnav{}
+li{list-style: none;
+   display: inline-block; }
 
-li{list-style: none; 
-   }
+#1stnav{ display: block}
+
+#2ndnav{ display: inline-block}
+
     
        
