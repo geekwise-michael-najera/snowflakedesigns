@@ -13,12 +13,15 @@ body{ color: #818181;
       font-size: 12px;
       line-height: 1.55;
       font-family: sans-serif;
-       list-style: none; 
+      list-style: none; 
       
 }
 
 
 header{ margin:0;
+        height:  ;
+        width: 100%; 
+        padding: 0;
         }
 
 
@@ -29,10 +32,12 @@ main{background-color: #F42098;
      text-transform: uppercase;
      list-style: none;
 }
-#1stnav{ list-style: none;}
-#2ndnav{ 
-        
-}
-    
+
+#1stnav{}
+
+#2ndnav{}
+
+li{list-style: none; 
+   }
     
        
