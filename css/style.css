@@ -50,18 +50,27 @@ li{list-style: none;
    margin: 0 0 3px 0; 
    text-decoration: none;
    color: white;
-    height: 30px;
+   height: 30px;
 }
 
-.social{ 
+#.social{ 
         text-decoration: none
-        color: white;
+        color: blue;
         height: 30px;
         text-transform: uppercase; }
 
-#1stnav{ display: block}
+#onenav{ display: inline-block;
+         background-color: #6C5B79;
+         margin:0;
+         margin-top: 0px;
+         padding: 0;
+         padding-top: 0px;
+         text-align: center;
+         float: left; 
+            }
 
-#2ndnav{ display: inline-block}
+#twonav{ display: inline-block;
+         }
 
 #number{margin: 0;
         color: #ea3896;
